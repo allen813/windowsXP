@@ -7,4 +7,4 @@ Actually a topic of door
 
 ## Essential material
 
-DOOR
+DOOM
